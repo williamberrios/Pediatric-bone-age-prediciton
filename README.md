@@ -2,8 +2,8 @@
 
 + The objective of this github is to present a method to create a model that predict the Bone Age of children from a Hand X-Ray.
 + The training data comes from the RSNA 2017 comp. ,but the test dataset is from a real brazilian hospital provided by [DATA H](http://www.datah.ai/)
-<p class="aligncenter">
-    <img src="TestImage.png" alt="centered image" />
+<p align="center">
+  <img width="400" height="300" src=TestImage.png>
 </p>
 
 
