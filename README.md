@@ -9,7 +9,7 @@
 + Both datasets (training and test) have a tabular variable which is gender
 
 Besides, a web application was created in order to use the model in a server using Flask.
-![Alt Text](./Files/WebAplication.gif)
+![Alt Text](WebAplication.gif)
 
 
 
